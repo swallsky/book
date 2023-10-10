@@ -304,6 +304,25 @@ let var1 = "hello world";
 console.log(var1)
 ```
 
+### 数学
+
+> 数学符号
+
+| 符号  | 代码       | 符号  | 代码      | 符号  | 代码       | 符号  | 代码          | 符号  | 代码      | 符号  | 代码       |
+|:---:|:--------:|:---:|:-------:|:---:|:--------:|:---:|:-----------:|:---:|:-------:|:---:|:--------:|
+| α   | \alpha   | κ   | \kappa  | ψ   | \psi     | ϝ   | \digamma    | Δ   | \Delta  | Θ   | \Theta   |
+| β   | \beta    | λ   | \lambda | ρ   | \rho     | ε   | \varepsilon | Γ   | \Gamma  | Υ   | \Upsilon |
+| χ   | \chi     | μ   | \mu     | σ   | \sigma   | ϰ   | \varkappa   | Λ   | \Lambda | Ξ   | \Xi      |
+| δ   | \delta   | ν   | \nu     | τ   | \tau     | φ   | \varphi     | Ω   | \Omega  |     |          |
+| ϵ   | \epsilon | o   | o       | θ   | \theta   | ϖ   | \varpi      | Φ   | \Phi    | ℵ   | \aleph   |
+| η   | \eta     | ω   | \omega  | υ   | \upsilon | ϱ   | \varrho     | Π   | \Pi     | ℶ   | \beth    |
+| γ   | \gamma   | ϕ   | \phi    | ξ   | \xi      | ς   | \varsigma   | Ψ   | \Psi    | ℸ   | \daleth  |
+| ι   | \iota    | π   | \pi     | ζ   | \zeta    | ϑ   | \vartheta   | Σ   | \Sigma  | ℷ   | \gimel   |
+
+
+
+
+
 ### 流程图
 
 1. 横向流程图
