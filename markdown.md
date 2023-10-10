@@ -306,7 +306,11 @@ console.log(var1)
 
 ### 数学
 
-> 数学符号
+> 在两个$符号之间插入公式内容
+
+$\alpha$ $\beta$
+
+> 数学符号(希腊和希伯来字母)
 
 | 符号  | 代码       | 符号  | 代码      | 符号  | 代码       | 符号  | 代码          | 符号  | 代码      | 符号  | 代码       |
 |:---:|:--------:|:---:|:-------:|:---:|:--------:|:---:|:-----------:|:---:|:-------:|:---:|:--------:|
@@ -319,7 +323,19 @@ console.log(var1)
 | γ   | \gamma   | ϕ   | \phi    | ξ   | \xi      | ς   | \varsigma   | Ψ   | \Psi    | ℸ   | \daleth  |
 | ι   | \iota    | π   | \pi     | ζ   | \zeta    | ϑ   | \vartheta   | Σ   | \Sigma  | ℷ   | \gimel   |
 
+> 数学结构
 
+$\frac{abc}{xyz}$          $\overline{abc}$       $\overrightarrow{abc}$    $f'$    $\underline{abc}$    $\overleftarrow{abc}$    $\sqrt{abc}$    $\widehat{abc}$    $\overbrace{abc}$    $\sqrt[n]{abc}$    $\widetilde{abc}$    $\underbrace{abc}$ 
+
+> 数学模型
+
+${\displaystyle \int f^{-1}{x-x_a},dx}$
+
+${\textstyle \int f^{-1}(x-x_a),dx}$
+
+${\scriptstyle \int f^{-1}(x-x_a),dx}$
+
+${\scriptscriptstyle \int f^{-1}(x-x_a),dx}$
 
 
 
